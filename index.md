@@ -13,21 +13,18 @@ description: I'm Elena (Lena) Voita and I work on Natural Language Processing. M
 <img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
 
 
-I am Elena (Lena) Voita, a __Research Scientist__ at [__FAIR__](https://ai.facebook.com) working on Analysis and Interpetability for NLP. 
-
-Also, [__NLP Course__ <span style="color:#92bf32">__For You__</span>](https://lena-voita.github.io/nlp_course.html) creator and current [SIGREP](https://www.sigrep.org) president.
-<!--* a __Research Scientist__ at [__FAIR__](https://ai.facebook.com) working on NLP,* current [SIGREP](https://www.sigrep.org) president,* NLP Course <span style="color:#92bf32">For You</span> creator - look [here](https://lena-voita.github.io/nlp_course.html).-->
+I am Huang Zeyu, a PhD student at the University of Edinburgh supervised by [Ivan Titov]({{site:ivan_page}}) and [Edoardo M. Ponti]({{site.edo_page}}).
 
 
 
-Before that, I was Ph.D. student at the University of Edinburgh supervised by [Ivan Titov]({{site:ivan_page}}) and [Rico Sennrich]({{site.rico_page}}),  was awarded [Facebook PhD Fellowship](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/),
-worked as a Research Scientist at [Yandex Research]({{site.yandex_research_main}}) side by side with the [Yandex Translate](https://translate.yandex.com) team, 
-while enjoying writing [blog posts](https://lena-voita.github.io/posts.html) and [teaching](https://lena-voita.github.io/nlp_course.html)<a onMouseOver="document.fox.src='/img/people/foxie.jpeg';" onMouseOut="document.fox.src='/img/people/orange_lena-min.jpg';">.</a> 
+
+Before that, I 
 
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
 ## <span style="color:darkblue">News </span>
 
+<!--
 __2023__
 
 * <span style="color:#7fa827">Senior Area Chair:</span>  [EACL 2024](https://2024.eacl.org).
@@ -59,7 +56,9 @@ __2020__
 * <span style="color:#7fa827">Papers:</span> 2 papers at EMNLP, [BPE-dropout](https://arxiv.org/pdf/1910.13267.pdf) at ACL.
 
 __2019__
-* <span style="color:#7fa827">Papers:</span> 2 papers at ACL (one is oral), 2 papers at EMNLP, 1 at NeurIPS.
+* <span style="color:#7fa827">Papers:</span> 2 papers at ACL (one is oral), 2 papers at EMNLP, 1 at NeurIPS. 
+
+-->
 
 
 <!--
