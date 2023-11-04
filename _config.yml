@@ -1,6 +1,6 @@
 # Site settings
 exclude: [README.md,example1.md,example2.md]
-title: Lena Voita
+title: Huang Zeyu
 email: zeroy.huang@gmail.com
 github: ZeroYuHuang
 twitter: ZeroyuHuang
@@ -8,11 +8,10 @@ scholar_id: EWU88_YAAAAJ
 description: > # this symbol means ignore newlines until "baseurl:"
     Hi! I'm Huang Zeyu and here you will find what I do.
 baseurl: "" # keep blank unless you're using sub-paths
-url: "http://https://zeroyuhuang.github.io/" # the base hostname & protocol for your site
+url: "http://https://ZeroYuHuang.github.io/" # the base hostname & protocol for your site
 #paginate: 3
 
 # you can also declare arbitrary key-value data here
-uva_url_lena: "https://msclogic.illc.uva.nl/people/students/"
 uva_url_main: "https://www.illc.uva.nl"
 edn_nlp_people: "https://edinburghnlp.inf.ed.ac.uk/index.php/people/"
 edn_nlp_main: "http://edinburghnlp.inf.ed.ac.uk"

@@ -1,6 +1,6 @@
 ---
 layout: default
-description: I'm Elena (Lena) Voita and I work on Natural Language Processing. More details inside!
+description: I'm Huang Zeyu and I work on Natural Language Processing. More details inside!
 ---
 
 <!-- (comment) the image below can be found in img folder of this very project-->
@@ -13,12 +13,10 @@ description: I'm Elena (Lena) Voita and I work on Natural Language Processing. M
 <img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
 
 
-I am Huang Zeyu, a PhD student at the University of Edinburgh supervised by [Ivan Titov]({{site:ivan_page}}) and [Edoardo M. Ponti]({{site.edo_page}}).
+I am Huang Zeyu, a PhD student (2024.01 - ) at the University of Edinburgh supervised by [Ivan Titov]({{site:ivan_page}}) and [Edoardo M. Ponti]({{site.edo_page}}).
 
 
-
-
-Before that, I 
+Before that, I obtained my master's degree at the Ministry of Education (MOE) Engineering Research Center of Advanced Computer Application Technology, [Beihang University](https://ev.buaa.edu.cn/), and my engineer degree (diplôme d'ingénieur) at École Centrale de Pékin, Groupe des Écoles Centrale (France), supervised by Zhang Xiong and Wenge Rong. I obtained my BSc degree in Information and Computing Science from Beihang University and Centrale Pékin.
 
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
