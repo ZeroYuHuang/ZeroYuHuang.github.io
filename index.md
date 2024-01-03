@@ -20,18 +20,6 @@ Before that, I obtained my master's degree at the Ministry of Education (MOE) En
 
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
-## <span style="color:darkblue">News </span>
-
-__2023__
-
-*  <span style="color:#7fa827"> New preprint: EMoE
-
-* Transformer-Pacther got accepted by ICLR 2023. 
-
-__2022__
-
-* MoA got accepted by EMNLP 2023 []. Congratulations to my co-authors! 
-
 <!--
 __2023__
 
