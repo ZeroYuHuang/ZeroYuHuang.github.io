@@ -22,4 +22,4 @@ Subgraph-Oriented Heterogeneous Drug-Target Interaction Identification. IJCNN 20
 
 1. **Zeyu Huang**, Wenge Rong, Xiaofeng Zhang, Yuanxin Ouyang, Chenghua Lin, and Zhang Xiong. 2022. Token Relation Aware Chinese Named Entity Recognition. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 22, 1, Article 24 (January 2023), 21 pages. https://doi.org/10.1145/3531534
 
-2. 	Xiaofeng Zhang*, Yikang Shen*, Zeyu Huang, Jie Zhou, Wenge Rong, Zhang Xiong: Mixture of Attention Heads: Selecting Attention Heads Per Token. EMNLP 2022: 4150-4162
+2. 	Xiaofeng Zhang*, Yikang Shen*, **Zeyu Huang**, Jie Zhou, Wenge Rong, Zhang Xiong: Mixture of Attention Heads: Selecting Attention Heads Per Token. EMNLP 2022: 4150-4162
