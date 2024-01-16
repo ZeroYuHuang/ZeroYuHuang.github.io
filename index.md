@@ -18,6 +18,8 @@ I am Huang Zeyu, a PhD student (2024.01 - ) at the University of Edinburgh super
 
 Before that, I obtained my master's degree at the Ministry of Education (MOE) Engineering Research Center of Advanced Computer Application Technology, [Beihang University](https://ev.buaa.edu.cn/), and my engineer degree (diplôme d'ingénieur) at École Centrale de Pékin, Groupe des Écoles Centrale (France), supervised by Zhang Xiong and Wenge Rong. I obtained my BSc degree in Information and Computing Science from Beihang University and Centrale Pékin.
 
+I am now really interested in building modular deep learning architectures. Let's go!!
+
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
 <!--
