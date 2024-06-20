@@ -8,14 +8,20 @@ order: 3
 
 [Google Scholar](https://scholar.google.com/citations?user=EWU88_YAAAAJ&hl=en)
 
+<span style="color:darkblue"> 2024 </span>
+
+1. Zihan Qiu*, **Zeyu Huang***, Youcheng Huang*, Jie Fu: Empirical Study on Updating Key-Value Memories in Transformer Feed-forward Layers. Tniy paper at ICLR 2024.
+
 <span style="color:darkblue"> 2023 </span>
 
-1. **Zeyu Huang**, Yikang Shen, Xiaofeng Zhang, Jie Zhou, Wenge Rong, Zhang Xiong: Transformer-Patcher: One Mistake Worth One Neuron. ICLR 2023
+1. Zihan Qiu*, **Zeyu Huang***, Jie Fu: Unlocking Emergent Modularity in Large Language Models. NAACL 2024, Outstanding paper award.
 
-2. **Zeyu Huang**, Xiaofeng Zhang, Jun Bai, Wenge Rong, Yuanxin Ouyang, Zhang Xiong:
+2. **Zeyu Huang**, Yikang Shen, Xiaofeng Zhang, Jie Zhou, Wenge Rong, Zhang Xiong: Transformer-Patcher: One Mistake Worth One Neuron. ICLR 2023
+
+3. **Zeyu Huang**, Xiaofeng Zhang, Jun Bai, Wenge Rong, Yuanxin Ouyang, Zhang Xiong:
 Solving Math Word Problems Following Logically Consistent Template. IJCNN 2023: 1-8
 
-3. Xiaofeng Zhang, **Zeyu Huang**, Jun Bai, Wenge Rong, Yuanxin Ouyang, Zhang Xiong:
+4. Xiaofeng Zhang, **Zeyu Huang**, Jun Bai, Wenge Rong, Yuanxin Ouyang, Zhang Xiong:
 Subgraph-Oriented Heterogeneous Drug-Target Interaction Identification. IJCNN 2023: 1-8
 
 <span style="color:darkblue"> 2022 </span>
