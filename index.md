@@ -12,13 +12,16 @@ description: I'm Huang Zeyu and I work on Natural Language Processing. More deta
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
 <img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
 
-
-I am Huang Zeyu, a PhD student (2024.01 - ) at the University of Edinburgh supervised by [Ivan Titov]({{site:ivan_page}}) and [Edoardo M. Ponti]({{site.edo_page}}).
+I am Zeyu Huang, a PhD student (2024.01 - ) at the University of Edinburgh. I am very lucky to be supervised by Dr.[Ivan Titov]({{site:ivan_page}}) and Dr.[Edoardo M. Ponti]({{site.edo_page}}).
 
 
 Before that, I obtained my master's degree at the Ministry of Education (MOE) Engineering Research Center of Advanced Computer Application Technology, [Beihang University](https://ev.buaa.edu.cn/), and my engineer degree (diplôme d'ingénieur) at École Centrale de Pékin, Groupe des Écoles Centrale (France), supervised by Zhang Xiong and Wenge Rong. I obtained my BSc degree in Information and Computing Science from Beihang University and Centrale Pékin.
 
-I am now really interested in building modular deep learning architectures, e.g., Mixture-Of-Experts (MoE) models.. Let's go!!!
+I have board interest in Large Language Models, including *self-alignment* and *Modular Large Languege Models*. If you are interested in my research, I am very happy to have a chat! You can directly send the email to zeroy.huang AT gmail DOT com.
+
+**Hight Lights**
+
+- NAACL 2024 Outstanding paper award!
 
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
