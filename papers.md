@@ -12,6 +12,10 @@ order: 3
 
 1. Zihan Qiu*, Zeyu Huang*, Youcheng Huang*, Jie Fu: Empirical Study on Updating Key-Value Memories in Transformer Feed-forward Layers. Tniy paper at ICLR 2024.
 
+2. Wenyu Du*, Shuang Cheng*, Tongxu Luo, Zihan Qiu, Zeyu Huang, Ka Chun Cheung, Reynold Cheng, Jie Fu: Unlocking Continual Learning Abilities in Language Models. EMNLP 2023 Findings
+
+3. Wenyu Du* Tongxu Luo∗, Zihan Qiu, Zeyu Huang, Yikang Shen, Reynold Cheng, Yike Guo, Jie Fu: Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training. NeurIPS 2024
+
 <span style="color:darkblue"> 2023 </span>
 
 1. Zihan Qiu*, Zeyu Huang*, Jie Fu: Unlocking Emergent Modularity in Large Language Models. NAACL 2024, Outstanding paper award.

@@ -17,11 +17,15 @@ I am Zeyu Huang, a PhD student (2024.01 - ) at the University of Edinburgh. I am
 
 Before that, I obtained my master's degree at the Ministry of Education (MOE) Engineering Research Center of Advanced Computer Application Technology, [Beihang University](https://ev.buaa.edu.cn/), and my engineer degree (diplôme d'ingénieur) at École Centrale de Pékin, Groupe des Écoles Centrale (France), supervised by Zhang Xiong and Wenge Rong. I obtained my BSc degree in Information and Computing Science from Beihang University and Centrale Pékin.
 
-I have board interest in Large Language Models, including *self-alignment* and *Modular Large Languege Models*. If you are interested in my research, I am very happy to have a chat! You can directly send the email to zeroy.huang AT gmail DOT com.
+I have board interest in Large Language Models, including *Post-training Alignment* and *Modular Large Languege Models*. If you are interested in my research, I am very happy to have a chat! You can directly send the email to zeroy.huang AT gmail DOT com.
 
 **Hight Lights**
 
-- NAACL 2024 Outstanding paper award!
+- Our paper Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training as accepted by NeurIPS 2024 (spotlight) !
+
+- Our paper Unlocking Unlocking Emergent Modularity in Large Language Models gets NAACL 2024 Outstanding paper award!
+
+- Happy to start my PhD at UoE!
 
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
