@@ -14,16 +14,15 @@ description: I'm Huang Zeyu and I work on Natural Language Processing. More deta
 
 I am Zeyu Huang, a PhD student (2024.01 - ) at the University of Edinburgh. I am very lucky to be supervised by Dr.[Ivan Titov]({{site:ivan_page}}) and Dr.[Edoardo M. Ponti]({{site.edo_page}}).
 
-
 Before that, I obtained my master's degree at the Ministry of Education (MOE) Engineering Research Center of Advanced Computer Application Technology, [Beihang University](https://ev.buaa.edu.cn/), and my engineer degree (diplôme d'ingénieur) at École Centrale de Pékin, Groupe des Écoles Centrale (France), supervised by Zhang Xiong and Wenge Rong. I obtained my BSc degree in Information and Computing Science from Beihang University and Centrale Pékin.
 
-I have board interest in Large Language Models, including *Post-training Alignment* and *Modular Large Languege Models*. If you are interested in my research, I am very happy to have a chat! You can directly send the email to zeroy.huang AT gmail DOT com.
+I have previously worked on Model editing and Mixture-of-Experts. I am now broadly interested in AGI and Large Language Models (language is so important because it's the interface between Humans and AI). My current goal is to become a **full-stack LLM researcher**. If you are interested in my research, I would be pleased to chat with you! You can directly send the email to zeroy.huang AT gmail DOT com.
 
 **Hight Lights**
 
-- Our paper Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training as accepted by NeurIPS 2024 (spotlight) !
+- Our paper, Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training, has been accepted by NeurIPS 2024 (spotlight)!
 
-- Our paper Unlocking Unlocking Emergent Modularity in Large Language Models gets NAACL 2024 Outstanding paper award!
+- Our paper, Unlocking Emergent Modularity in Large Language Models, gets the NAACL 2024 Outstanding Paper award!
 
 - Happy to start my PhD at UoE!
 
@@ -54,7 +53,7 @@ __2021__
 * <span style="color:#7fa827">Papers:</span> [Source and Target Contributions](https://arxiv.org/pdf/2010.10907.pdf) at ACL, [NMT Training through the Lens of SMT](https://arxiv.org/abs/2109.01396) at EMNLP.
 
 __2020__
- 
+
 * <span style="color:#7fa827">Award:</span> I'm [awarded Facebook PhD Fellowship](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/).
 * <span style="color:#7fa827">Keynote:</span> NLP track at [Applied Machine Learning Days at EPFL](https://appliedmldays.org/tracks/ai-nlp).
 * <span style="color:#7fa827">Invited talks</span>: [NLP Highlights podcast](https://soundcloud.com/nlp-highlights/98-analyzing-information-flow-in-transformers-with-elena-voita), [Rasa](https://www.meetup.com/ru-RU/Bots-Berlin-Build-better-conversational-interfaces-with-AI/events/267058207/), Google Research Berlin, [Naver Labs Europe](https://europe.naverlabs.com/research/seminars/analyzing-information-flow-in-transformers/), MIT, DeepMind, [Grammarly AI](https://grammarly.ai/information-theoretic-probing-with-minimum-description-length/), Unbabel, [NLP with Friends](https://nlpwithfriends.com), CMU, [USC ISI](https://nlg.isi.edu/nl-seminar/), ENS Paris, [ML Street Talk](https://www.youtube.com/watch?v=Q0kN_ZHHDQY).
