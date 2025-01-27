@@ -20,7 +20,7 @@ I have previously worked on Model editing and Mixture-of-Experts. I am now broad
 
 **Hight Lights**
 
-- Jan. 2025: Two papers get accepted by ICLR 2025 and one by NAACL!  
+- Jan. 2025: Two papers get accepted by ICLR 2025 and one paper accepted by NAACL!  
 
 - Nov. 2024: Our paper, [Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training](https://openreview.net/forum?id=FXJDcriMYH), has been accepted by NeurIPS 2024 (spotlight)!
 
