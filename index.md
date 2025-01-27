@@ -14,7 +14,7 @@ description: I'm Huang Zeyu and I work on Natural Language Processing. More deta
 
 I am Zeyu Huang, a PhD student (2024.01 - ) at the University of Edinburgh. I am very lucky to be supervised by Dr.[Ivan Titov]({{site:ivan_page}}) and Dr.[Edoardo M. Ponti]({{site.edo_page}}).
 
-Before that, I obtained my master's degree at the Ministry of Education (MOE) Engineering Research Center of Advanced Computer Application Technology, [Beihang University](https://ev.buaa.edu.cn/), and my engineer degree (diplôme d'ingénieur) at École Centrale de Pékin, Groupe des Écoles Centrale (France), supervised by Zhang Xiong and Wenge Rong. I obtained my BSc degree in Information and Computing Science from Beihang University and Centrale Pékin.
+<!-- Before that, I obtained my master's degree at the Ministry of Education (MOE) Engineering Research Center of Advanced Computer Application Technology, [Beihang University](https://ev.buaa.edu.cn/), and my engineer degree (diplôme d'ingénieur) at École Centrale de Pékin, Groupe des Écoles Centrale (France), supervised by Zhang Xiong and Wenge Rong. I obtained my BSc degree in Information and Computing Science from Beihang University and Centrale Pékin. -->
 
 I have previously worked on Model editing and Mixture-of-Experts. I am now broadly interested in AGI and Large Language Models (language is so important because it's the interface between Humans and AI). My current goal is to become a **full-stack LLM researcher**. If you are interested in my research, I would be pleased to chat with you! You can directly send the email to zeroy.huang AT gmail DOT com.
 
