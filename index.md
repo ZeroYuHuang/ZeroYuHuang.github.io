@@ -20,11 +20,13 @@ I have previously worked on Model editing and Mixture-of-Experts. I am now broad
 
 **Hight Lights**
 
-- Our paper, Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training, has been accepted by NeurIPS 2024 (spotlight)!
+- Jan. 2024: Two papers get accepted by ICLR 2025 and one by NAACL!  
 
-- Our paper, Unlocking Emergent Modularity in Large Language Models, gets the NAACL 2024 Outstanding Paper award!
+- Nov. 2024: Our paper, [Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training](https://openreview.net/forum?id=FXJDcriMYH), has been accepted by NeurIPS 2024 (spotlight)!
 
-- Happy to start my PhD at UoE!
+- Apr. 2024: Our paper, [Unlocking Emergent Modularity in Large Language Models](https://arxiv.org/abs/2310.10908), gets the NAACL 2024 Outstanding Paper award!
+
+- Jan. 2024: Happy to start my PhD at UoE!
 
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
