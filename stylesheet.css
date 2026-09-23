@@ -138,3 +138,10 @@ span.highlight {
 .research-interests li {
   margin-bottom: 8px;
 }
+
+.opportunity-note {
+  background-color: #eef5fc;
+  border-left: 3px solid #1772d0;
+  color: #174a75;
+  padding: 8px 10px;
+}
